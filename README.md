@@ -1,4 +1,4 @@
-# CS-230
+# CS-230-Operating-Platforms
 
 ## Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
 The Gaming Room is a client of Creative Technology Solutions who is looking to expand their gaming app called Draw It or Lose It to multiple platforms by making the game a web-based game. The client wants us to evaluate the platforms that this game will be playable on such as desktop and mobile.
